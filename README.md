@@ -2,7 +2,6 @@
 ![Badge](https://github.com/cgvalle/IIBM-BootCamp-2025/actions/workflows/badge-colab.yml/badge.svg)
 
 
-
 # IIBM Bootcamp 2025
 ### Institute for Biological and Medical Engineering [(IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/), Pontificia Universidad Catolica de Chile.
 
@@ -45,7 +44,7 @@ In order to give you feedback after the morning and afternoon sessions, please s
 
 
 ## **Week Schedule**
-![imagen](https://github.com/cgvalle/IIBM-BootCamp-2024/blob/main/assets/week_schedule.png)
+![imagen](https://github.com/cgvalle/IIBM-BootCamp-2025/blob/main/assets/week_schedule.png)
 
 
 ## **Speakers**
