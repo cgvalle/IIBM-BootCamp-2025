@@ -2,10 +2,11 @@
 ![Badge](https://github.com/cgvalle/IIBM-BootCamp-2025/actions/workflows/badge-colab.yml/badge.svg)
 
 
+
 # IIBM Bootcamp 2025
 ### Institute for Biological and Medical Engineering [(IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/), Pontificia Universidad Catolica de Chile.
 
-**Instructors**: Carlos Valle (cgvalle@uc.cl)
+**Instructor**: Carlos Valle (cgvalle@uc.cl)
 
 
 The IIBM Bootcamp will be held between January 15 and 19 of 2023. During the 5 days, practical exercises in relation to [Python](https://www.python.org/) and [Matlab](https://la.mathworks.com/) Programming languages, Calculus and Algebra will be taught, been the main objective to prepare students of the postgraduate programs of the [Institute for Biological and Medical Engineering (IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/) with tools that will be necessary to succeed in the different courses of the Masters and Ph.D. programs.
