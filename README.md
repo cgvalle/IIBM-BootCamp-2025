@@ -53,7 +53,7 @@ Check out the incredible speakers we had throughout the week
 
 | Day |  Professor                  | Web page                                                                              |
 |-----|-----------------------------------------|--------------------------------------------------------------------------------- |
-| 1   |     |          
+| 1   |   Rene Botnar  |  [IIBM profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/1011-rene-botnar)        
 | 2   |    Tobias Wenzel          |    [Wenzel Lab](https://wenzel-lab.github.io/en/)          |
 | 3   |    Flavia Zacconi        | [IIBM profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/817-flavia-zacconi) | 
 | 4   |    Pablo Irarrázaval        |  [IIBM profile](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)                                   |
