@@ -25,7 +25,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 
 | Day   | Colab tutorial          |  Solution |          Description             |
 |-------|---------------------------|--|-------------------------------------|
-| Day 1 morning     | |   | Setting up Tools Google Colab and Github and basics of data types| 
+| Day 1 morning     | {{badge D1/D1Morning_tools_elemental_python.ipynb}}|   | Setting up Tools Google Colab and Github and basics of data types| 
 | Day 1 afternoon   |   | | Control flow|
 | Day 2 morning     |  |   | Reading data, arithmetics and functions|
 | Day 2 afternoon   |   |   | Excersise: 'SARS-Cov-2 sequence' |
