@@ -8,7 +8,7 @@
 **Instructor**: Carlos Valle (cgvalle@uc.cl) & Nicolás Garrido (nagarrido@uc.cl)
 
 
-The IIBM Bootcamp will be held between January 13 and 17 of 2025. During the 5 days, practical exercises in relation to [Python](https://www.python.org/) and [Matlab](https://la.mathworks.com/) Programming languages, Calculus and Algebra will be taught, been the main objective to prepare students of the postgraduate programs of the [Institute for Biological and Medical Engineering (IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/) with tools that will be necessary to succeed in the different courses of the Masters and Ph.D. programs.
+The IIBM Bootcamp will be held between January 13 and 17 of 2025. During these 5 days, practical exercises in relation to [Python](https://www.python.org/) and [Matlab](https://la.mathworks.com/) Programming languages, Calculus and Algebra will be taught, been the main objective to prepare students of the postgraduate programs of the [Institute for Biological and Medical Engineering (IIBM)](https://ingenieriabiologicaymedica.uc.cl/en/) with tools that will be necessary to succeed in the different courses of the Masters and Ph.D. programs.
 
 Jupyter notebooks and scripts for each day will be uploaded here at the end of the day.
 
@@ -108,7 +108,7 @@ Check out the incredible speakers we had throughout the week
 
 
 ## **Downloading Matlab**
-Unlike Python which is open-source and free, Matlab is a pay proprietary software solution. Luckely, the university provides licenses to students free of charge. If you already have an uc email, follow the steps described [informatica UC](https://informatica.uc.cl/licencias#mathworks-matlab-campus-agreement). If not, a one moth free trial of matlab can be downloaded directly from the official [webpage](https://la.mathworks.com/campaigns/products/trials.html).
+Unlike Python, which is open-source and free, Matlab is a pay proprietary software solution. Luckily, the university provides licenses to students free of charge. If you already have a UC email, follow the steps described [informatica UC](https://informatica.uc.cl/licencias#mathworks-matlab-campus-agreement). If not, a one moth free trial of matlab can be downloaded directly from the official [webpage](https://la.mathworks.com/campaigns/products/trials.html).
 
 **Matlab can take a couple of hours to install depending on your internet speed. Please download it before the start of the Bootcamp**
 
