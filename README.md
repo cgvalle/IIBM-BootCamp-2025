@@ -28,7 +28,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 |-------|---------------------------|--|-------------------------------------|
 | Day 1 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D1/D1Morning_tools_elemental_python.ipynb)| - | Setting up Tools Google Colab and Github and basics of data types| 
 | Day 1 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D1/D1Afternoon_controlFlow.ipynb) | | Control flow|
-| Day 2 morning     |  |   | Reading data, arithmetics and functions|
+| Day 2 morning     | {{badge  D2/D2Morning.ipynb }} |   | Reading data, arithmetics and functions|
 | Day 2 afternoon   |   |   | Excersise: 'SARS-Cov-2 sequence' |
 | Day 3 morning     |  |   | Numpy, Matlab arrays and plots|
 | Day 3 afternoon   |   |   | Excersise: 'Chile: COVID data'|
