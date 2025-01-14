@@ -108,7 +108,7 @@ Check out the incredible speakers we had throughout the week
 
 
 ## **Downloading Matlab**
-Unlike Python, which is open-source and free, Matlab is a pay proprietary software solution. Luckily, the university provides licenses to students free of charge. If you already have a UC email, follow the steps described [informatica UC](https://informatica.uc.cl/licencias#mathworks-matlab-campus-agreement). If not, a one moth free trial of matlab can be downloaded directly from the official [webpage](https://la.mathworks.com/campaigns/products/trials.html).
+Unlike Python, which is open-source and free, Matlab is a pay proprietary software solution. A one moth free trial of matlab can be downloaded directly from the official [webpage](https://la.mathworks.com/campaigns/products/trials.html). You should also create a Mathworks account in [webpage](https://www.mathworks.com/mwaccount/account/create?cid=mlhome&wid=&uri=https%3A%2F%2Fmatlab.mathworks.com%2F).
 
 **Matlab can take a couple of hours to install depending on your internet speed. Please download it before the start of the Bootcamp**
 
