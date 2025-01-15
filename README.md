@@ -31,7 +31,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 | Day 2 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D2/D2Morning.ipynb) |  - | Reading data, arithmetics and functions|
 | Day 2 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D2/D2Afertoon.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D2/D2Afertoon_SOLUTION.ipynb)  | Excersise: 'SARS-Cov-2 sequence' |
 | Day 3 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D3/D3_morning_numpy_matplotlib_Matlab.ipynb) |   | Numpy, Matlab arrays and plots|
-| Day 3 afternoon   | {{badge D3/D3_Afternoon_covid.ipynb}}  |   | Excersise: 'Chile: COVID data'|
+| Day 3 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D3/D3_Afternoon_covid.ipynb)  |   | Excersise: 'Chile: COVID data'|
 | Day 4 morning     |   |   | Derivatives|
 | Day 4 afternoon   |  |   | Integrals and Convolutional filters|
 | Day 5 morning     |  |   | Linear equations and Fourier Transform|
