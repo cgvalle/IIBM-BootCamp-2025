@@ -33,7 +33,7 @@ Jupyter notebooks and scripts for each day will be uploaded here at the end of t
 | Day 3 morning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D3/D3_morning_numpy_matplotlib_Matlab.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D3/D3_morning_numpy_matplotlib_Matlab_SOLUTION.ipynb)  | Numpy, Matlab arrays and plots|
 | Day 3 afternoon   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D3/D3_Afternoon_covid.ipynb)  |   | Excersise: 'Chile: COVID data'|
 | Day 4 morning     |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgvalle/IIBM-BootCamp-2025/blob/main/D4/D4Morning_derivatives.ipynb)   |   | Derivatives|
-| Day 4 afternoon   |  |   | Integrals and Convolutional filters|
+| Day 4 afternoon   | {{badge D4/D4Afternoon_Integrals.ipynb }} |   | Integrals and Convolutional filters|
 | Day 5 morning     |  |   | Linear equations and Fourier Transform|
 | Day 5 afternoon   | |   |  Filtering |
 
